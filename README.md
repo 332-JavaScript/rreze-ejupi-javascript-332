@@ -23,7 +23,7 @@ Ora-4-Operatoret/
   ├── operatoret.html
   └── operatoret.js
 
-Ora-4-If-Else/
+Ora-5-If-Else/
   └── Ora-4-If-Else-Udhezues.md
   ├── if-else.html
   └── if-else.js
