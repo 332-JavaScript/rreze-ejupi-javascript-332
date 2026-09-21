@@ -72,13 +72,44 @@ console.log(!true); //jo / not
 
 
 ("mbi 18" || "syte e kalter")
-.
+
 console.log("urime!")
-.
 
 
+//operatoret krahasues
+console.log("operatoret krahasues")
+
+console.log(10<5)
+
+console.log(10>5)
+
+console.log(5<=5)
+
+console.log(5>=5)
+
+let var1 = "5"; //string
+
+let var2 = 5; //number
+let var3 = 8;
+
+console.log(var1==var2) //loose equality 
+
+console.log(var1===var2) //stict equality
+
+console.log(var2!==var3)
 
 
+//INCREMENT
+let x = 10;
+
+x = x +1;
+
+x++;
+
+//DECREMENT
+x = x-1;
+
+x--;
 
 
 
