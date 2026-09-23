@@ -2,18 +2,33 @@
 let mosha = 12;
 
 if(mosha>=18){
-    let ksyhjhdgfvj = 10;
     console.log("Je i rritur!")
 }
 
 
 
 
-if(mosha>=18){
-    console.log("Je i rritur;")
+if(mosha>=13){
+    console.log("mUND TE HAPESH ACCOUNT;")
 }else{
-    console.log("Je i mitur!")
+    console.log("nUK MUND TE HAPESH ACCOUNTY!")
 }
+
+//operatori ternar
+let rezultati = (mosha>=18) ? "Je i rritur" : "Je i mitur";
+console.log(rezultati);
+
+if(notaMesatare>=3){
+    console.log("Nxenes i mire")
+}else{
+    console.log("Nxenes mesatar")
+}
+
+// Klasifiko BMI-në (rimerr formulën nga ora e operatorëve: masa / gjatësia ** 2) me if/else if:
+// nën 18.5 → "Nënpeshë"
+// 18.5 deri 25 → "Peshë normale"
+// 25 deri 30 → "Mbipeshë"
+// mbi 30 → "Obezitet"
 
 
 
